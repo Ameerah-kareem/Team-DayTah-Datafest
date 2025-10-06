@@ -1,0 +1,88 @@
+intent_name,language,user_utterance,response
+balance,English,What is my balance?,"Your balance is ₦5,000"
+balance,English,balance,"Your balance is ₦5,000"
+balance,English,How much do I have left in my account,"You have ₦5,000 left in your account."
+balance,English,How much is my balance?,"Your balance is ₦5,000"
+balance,English,How much is my current balance?,"You currently have ₦5,000"
+balance,Yoruba,Ki ni balance mi?,"Balance rẹ ni ₦5,000"
+balance,Yoruba,Elo ni balance mi?,"₦5,000 ni balance rẹ"
+balance,Yoruba,balance mi je elo,"Balance rẹ je ₦5,000"
+balance,Yoruba,elo ni owo mi ku,"Owo e sheku ₦5,000"
+balance,Yoruba,owo mi ku elo,"Owo e ku ₦5,000"
+balance,pidgin,weytin be my balance,"Your balance na ₦5,000"
+balance,pidgin,my balance bi how much,"Your balance na ₦5,000"
+balance,pidgin,my money remain how much,"Your money remain ₦5,000"
+balance,pidgin,i wan know how much i get,"you get ₦5,000"
+balance,pidgin,make i see my balance,"Your balance na ₦5,000"
+transfer,English,"Send ₦2,000 to Tunde","Transfer of ₦2,000 to Tunde is successful"
+transfer,English,"transfer ₦2,000 to Tunde","₦2,000 has been sent to Tunde"
+transfer,English,"make a transfer of ₦2,000 to Tunde","Tunde has been sent ₦2,000"
+transfer,English,"i want to send ₦2,000 to Tunde","ok, Tunde has been successfully sent ₦2,000"
+transfer,English,"Kindly send ₦2,000 to Tunde","Tunde has received ₦2,000."
+transfer,Yoruba,"ran ₦2,000 si Tunde","Tunde ti gba ₦2,000"
+transfer,Yoruba,"fi ₦2,000 si gbigbe Tunde","mo ti fi ₦2,000 si Tunde"
+transfer,Yoruba,"Mo fe fi ₦2,000 ranse si Tunde","Tunde ti gba ₦2,000"
+transfer,Yoruba,"jowo bami fi ₦2,000 ranse si Tunde","Gbigbe ₦2,000 si Tunde ti pari ni aṣeyọri"
+transfer,Yoruba,"gbe ₦2,000 ranse si Tunde","Tunde ti gba ₦2,000 re"
+transfer,pidgin,"Send ₦2,000 give Tunde","You don send ₦2,000 give Tunde"
+transfer,pidgin,"Help me run ₦2,000 to Tunde","₦2,000 don land for Tundes account"
+transfer,pidgin,"i wan send ₦2,000 to Tunde","Tunde don receive the ₦2,000"
+transfer,pidgin,"help me push ₦2,000 ender Tunde's side",The money don reach Tunde
+transfer,pidgin,"transfer ₦2,000 for Tunde",the transfer don go through
+ajo,English,Join 30k pack 500k ajo group,You have successfully joined Ajo group
+ajo,English,Enter 30k pack 500k ajo circle,You are now part of the ajo group.
+ajo,English,Become a part of the 30k recieve 500k ajo group,Welcome to the Ajo group.
+ajo,English,sign up for the 30k receive 500k ajo plan,You have successfully been added. 
+ajo,English,I want to join the 30k receive 500k ajo plan,You have joined successfully.
+ajo ,Yoruba,Darapo mo egbe ajo 30k kin ko 500k,O ti darapọ mọ ẹgbẹ́ Ajo rẹ ní aṣeyọri
+ajo,Yoruba,wole si egbe ajo 30k ko 500k,Ẹgbẹ́ Ajo rẹ ti gba ọ wọlé ni aṣeyọri
+ajo ,Yoruba,wo egbe ajo 30k ko 500k,O ti di omo Ẹgbẹ́ ajo
+ajo,Yoruba,ko ara jo pelu egbe Ajo 30k ko 500k ,o ti join ajo 
+ajo,Yoruba,forukosile fun ajo 30 thousand ko 500,Ẹgbẹ́ Ajo rẹ ti gba ọ wọlé ni aṣeyọri
+ajo,pidgin,Join ₦30k pack ₦500k Ajo group,You don join your Ajo group 
+ajo,pidgin,Enter ₦30k pack ₦500k Ajo team,Dem don add you to your Ajo group
+ajo,pidgin,Put body for ₦30k pack ₦500k Ajo run,You don enter the Ajo team successfully
+ajo,pidgin,write my name for 30k pack 500k ajo group,Your name don show for the Ajo list
+ajo,pidgin,i wan follow ₦30k pack ₦500k Ajo people,You dey inside the Ajo group 
+save_goal,English,I want to save towards Bola’s school fees,Alright! Let’s start saving towards Bola’s school fees.
+save_goal,English,Help me start saving for rent,Rent savings goal created
+save_goal,English,save for market from Kano,I’ve created a saving goal for your kano goods.
+save_goal,English,save towards Femis WAEC fees,Savings goal created successfully
+save_goal,English,Save for cargo fees for china goods,Savings plan created
+save_goal,Yoruba,Mo fẹ́ fi owo pamọ́ fún owó school Bola,Ó dáa! Jẹ́ ká bẹ̀rẹ̀ fipamọ́ fún owó school Bola
+save_goal,Yoruba,ran mi lowo lati fi own panfo fun iyalo ,A ti dá àfojúsùn fipamọ́ fún iyalo rẹ
+save_goal,Yoruba,fipamo fun oja lati Kano,Mo ti dá àfojúsùn fipamọ́ fún awọn ẹru rẹ lati Kano
+save_goal,Yoruba,Fipamọ́ fún owó WAEC Fẹmi,Àfojúsùn fipamọ́ ti ṣẹ̀ṣẹ̀ dá ni aṣeyọri
+save_goal,Yoruba,fipamo fun owo oja rira lati china,Ètò fipamọ́ ti dá
+save_goal,pidgin,I wan save for Bola school fees,No wahala! Make we start to save for Bola school fees
+save_goal,pidgin,Help me begin save for house rent,Rent saving goal don set
+save_goal,pidgin,Save for market wey dey come from Kano,I don create saving goal for your Kano goods
+save_goal,pidgin,Save for Femi WAEC money,Saving goal don complete successfully
+save_goal,pidgin,Save for cargo money for China goods,Saving plan don ready
+airtime,English,I want to buy airtime,How much airtime would you like to buy and for which number?
+airtime,English,buy ₦500 airtime for 08046322344,Done
+airtime,English,Top up my line with ₦500,Done! ₦500 MTN airtime successfully purchased
+airtime,English,I want to buy credit ,Airtime top-up complete
+airtime,English,I need credit for 07045673298,Your airtime purchase was successful
+airtime,Yoruba,Mo fẹ́ rà airtime,Elo ni o fẹ́ rà ati fún ta ni?
+airtime,Yoruba,ba mi ra credit 500 fun 08046322344,mo ti ra
+airtime,Yoruba,Recharge foonu mi,Airtime ₦500 ti ra fun ọ́ ni aṣeyọri
+airtime,Yoruba,mo fe ra credit,Elo ni o fẹ́ rà ati fún ta ni?
+airtime,Yoruba,Mo nilo airtime fún  07045673298,Rira airtime rẹ ti ṣaṣeyọri
+airtime,pidgin,I wan buy airtime,How much credit you wan buy and for which number?
+airtime,pidgin,Recharge my phone,Okay! How much make I recharge?
+airtime,pidgin,Buy ₦500 MTN credit,Done! ₦500 MTN credit don go through
+airtime,pidgin,Top up my line,Your phone don get airtime
+airtime,pidgin,I need credit for this number,Airtime don land successfully
+auto_tip,English,(system_triggered),"💡 Tip of the day: Save before you spend, even if it’s just ₦100."
+auto_tip,English,(system_triggered),💡 Did you know? Keeping separate accounts for bills and savings helps you stay disciplined.
+auto_tip,English,(system_triggered),"💡 Never share your BVN or PIN with anyone, not even someone claiming to be from your bank."
+auto_tip,English,(system_triggered),💡 Always double-check the account number before sending money. Mistakes can be costly.
+auto_tip,Yoruba,(system_triggered),"💡 Ìmọ̀ràn òní: Fipamọ́ ṣáájú kí o tó na, bóyá ó jẹ́ ₦100 ni."
+auto_tip,Yoruba,(system_triggered),💡 Ṣé o mọ̀ pé pípa àkọọlẹ̀ méjì fún ìsanwó àti fipamọ́ lè ràn ẹ lọwọ lati ṣàkóso owó dáadáa?
+auto_tip,Yoruba,(system_triggered),"💡 Má fi BVN tàbí PIN rẹ fún ẹnikẹ́ni, kó jẹ́ ẹni tó sọ pé ó wá láti ọ́fíìsì banki."
+auto_tip,Yoruba,(system_triggered),"💡 Ṣàyẹ̀wò nomba àkọọlẹ̀ dáadáa kí o tó fi owó ranṣẹ, aṣìṣe le jẹ gbowó."
+auto_tip,pidgin,(system_triggered),"💡 Tip of the day: Try save small before you spend, even if na just ₦100."
+auto_tip,pidgin,(system_triggered),"💡 You sabi say if you get separate account for bills and savings, e go help you manage money well?"
+auto_tip,pidgin,(system_triggered),"💡 No ever give anybody your BVN or PIN, even if dem say dem be bank people."
+auto_tip,pidgin,(system_triggered),"💡 Always check account number well before you send money, mistake fit cost you."
