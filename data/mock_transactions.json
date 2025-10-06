@@ -1,0 +1,212 @@
+{
+  "users": [
+    {
+      "user_id": "U001",
+      "name": "Iya Bolanle",
+      "language": "Yoruba",
+      "phone_number": "+2348034567890",
+      "account_balance": 32500.50,
+      "ajo_group": {
+        "group_name": "Igbogbo Market Women Ajo",
+        "weekly_contribution": 5000,
+        "turn_order": ["Iya Bolanle", "Mama Sade", "Auntie Ronke", "Iya Titi", "Mummy Grace"],
+        "next_turn": "Mama Sade",
+        "total_rounds_completed": 1
+      },
+      "transactions": [
+        {
+          "date": "2025-09-25",
+          "type": "fund_transfer",
+          "amount": 3000,
+          "recipient": "Mama Sade",
+          "status": "successful",
+          "remarks": "Owó àjọ ni mo rán – ẹ ṣeun o!"
+        },
+        {
+          "date": "2025-09-28",
+          "type": "airtime_purchase",
+          "amount": 500,
+          "recipient": "self",
+          "status": "successful",
+          "remarks": "MTN recharge"
+        },
+        {
+          "date": "2025-09-30",
+          "type": "ajo_contribution",
+          "amount": 5000,
+          "recipient": "Igbogbo Market Women Ajo",
+          "status": "successful",
+          "remarks": "Week 5 contribution paid"
+        },
+        {
+          "date": "2025-10-05",
+          "type": "bill_payment",
+          "amount": 2000,
+          "recipient": "Ikeja Electric",
+          "status": "successful",
+          "remarks": "Light bill payment"
+        }
+      ]
+    },
+    {
+      "user_id": "U002",
+      "name": "Mama Sade",
+      "language": "English",
+      "phone_number": "+2348123456789",
+      "account_balance": 21800.00,
+      "ajo_group": {
+        "group_name": "Igbogbo Market Women Ajo",
+        "weekly_contribution": 5000,
+        "turn_order": ["Iya Bolanle", "Mama Sade", "Auntie Ronke", "Iya Titi", "Mummy Grace"],
+        "next_turn": "Auntie Ronke",
+        "total_rounds_completed": 1
+      },
+      "transactions": [
+        {
+          "date": "2025-09-29",
+          "type": "ajo_contribution",
+          "amount": 5000,
+          "recipient": "Igbogbo Market Women Ajo",
+          "status": "successful",
+          "remarks": "Week 5 contribution sent"
+        },
+        {
+          "date": "2025-10-01",
+          "type": "fund_transfer",
+          "amount": 2500,
+          "recipient": "Auntie Ronke",
+          "status": "successful",
+          "remarks": "Market contribution transfer"
+        },
+        {
+          "date": "2025-10-04",
+          "type": "airtime_purchase",
+          "amount": 1000,
+          "recipient": "self",
+          "status": "successful",
+          "remarks": "Airtime purchase"
+        }
+      ]
+    },
+    {
+      "user_id": "U003",
+      "name": "Auntie Ronke",
+      "language": "Pidgin",
+      "phone_number": "+2348098765432",
+      "account_balance": 45000.00,
+      "ajo_group": {
+        "group_name": "Igbogbo Market Women Ajo",
+        "weekly_contribution": 5000,
+        "turn_order": ["Iya Bolanle", "Mama Sade", "Auntie Ronke", "Iya Titi", "Mummy Grace"],
+        "next_turn": "Iya Titi",
+        "total_rounds_completed": 1
+      },
+      "transactions": [
+        {
+          "date": "2025-09-27",
+          "type": "ajo_contribution",
+          "amount": 5000,
+          "recipient": "Igbogbo Market Women Ajo",
+          "status": "successful",
+          "remarks": "I don drop my own for this week"
+        },
+        {
+          "date": "2025-10-03",
+          "type": "fund_transfer",
+          "amount": 1500,
+          "recipient": "Mama Sade",
+          "status": "successful",
+          "remarks": "Small assist for market money"
+        },
+        {
+          "date": "2025-10-05",
+          "type": "bill_payment",
+          "amount": 2500,
+          "recipient": "Lagos Water Board",
+          "status": "successful",
+          "remarks": "Pay water bill"
+        }
+      ]
+    },
+    {
+      "user_id": "U004",
+      "name": "Iya Titi",
+      "language": "Yoruba",
+      "phone_number": "+2347012345678",
+      "account_balance": 12700.00,
+      "ajo_group": {
+        "group_name": "Igbogbo Market Women Ajo",
+        "weekly_contribution": 5000,
+        "turn_order": ["Iya Bolanle", "Mama Sade", "Auntie Ronke", "Iya Titi", "Mummy Grace"],
+        "next_turn": "Mummy Grace",
+        "total_rounds_completed": 1
+      },
+      "transactions": [
+        {
+          "date": "2025-09-29",
+          "type": "ajo_contribution",
+          "amount": 0,
+          "recipient": "Igbogbo Market Women Ajo",
+          "status": "missed",
+          "remarks": "Missed contribution this week 😞"
+        },
+        {
+          "date": "2025-10-01",
+          "type": "fund_transfer",
+          "amount": 1000,
+          "recipient": "Mama Sade",
+          "status": "successful",
+          "remarks": "Sent small help"
+        },
+        {
+          "date": "2025-10-04",
+          "type": "airtime_purchase",
+          "amount": 500,
+          "recipient": "self",
+          "status": "successful",
+          "remarks": "Glo recharge"
+        }
+      ]
+    },
+    {
+      "user_id": "U005",
+      "name": "Mummy Grace",
+      "language": "English",
+      "phone_number": "+2348065432198",
+      "account_balance": 51000.75,
+      "ajo_group": {
+        "group_name": "Igbogbo Market Women Ajo",
+        "weekly_contribution": 5000,
+        "turn_order": ["Iya Bolanle", "Mama Sade", "Auntie Ronke", "Iya Titi", "Mummy Grace"],
+        "next_turn": "Iya Bolanle",
+        "total_rounds_completed": 1
+      },
+      "transactions": [
+        {
+          "date": "2025-09-26",
+          "type": "ajo_contribution",
+          "amount": 5000,
+          "recipient": "Igbogbo Market Women Ajo",
+          "status": "successful",
+          "remarks": "Week 5 payment made early"
+        },
+        {
+          "date": "2025-09-29",
+          "type": "bill_payment",
+          "amount": 3500,
+          "recipient": "DSTV",
+          "status": "successful",
+          "remarks": "Cable subscription"
+        },
+        {
+          "date": "2025-10-03",
+          "type": "fund_transfer",
+          "amount": 2500,
+          "recipient": "Auntie Ronke",
+          "status": "successful",
+          "remarks": "Support for her new stall"
+        }
+      ]
+    }
+  ]
+}
