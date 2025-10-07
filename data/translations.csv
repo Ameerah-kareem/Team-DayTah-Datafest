@@ -1,0 +1,26 @@
+key,english_text,yoruba_text,pidgin_text
+greeting,Hello! How can I help you today?,Báwo ni mo ṣe lè ràn ẹ lọwọ lónìí?,How you dey? Wetin you need today?
+farewell,Goodbye! Talk to you soon.,O dàbọ̀! ,Bye-bye! We go talk later.
+balance_check,"Your balance is ₦5,000.","Balance rẹ ni ₦5,000.","Your balance na ₦5,000."
+insufficient_funds,You don’t have enough funds to complete this transaction.,Owo to wa ninu akanti yin ko to lati pari ìdúnà.,You no get enough money for this transaction.
+transfer_fail,Transfer failed. Kindy try again later.,Ifiranṣẹ ko ṣeyọrí. Gbiyanju lẹ́ẹ̀kan si.,Transfer no go. Try again later.
+ajo_reminder,It’s time to contribute to your Ajo.,Àkókò àjọ rẹ́ ti dé o.,Time don reach to drop your Ajo money.
+safe_goal_reminder,Remember to save towards your goal.,Ranti lati fipamọ́ fún àfojúsùn rẹ.,No forget to save small for your goal.
+transfer_done,Transfer successful!,Ifiranṣẹ ṣeyọrí!,Transfer don go through!
+ajo_joined,You’ve joined the Ajo group.,O ti darapọ̀ mọ ẹgbẹ́ Ajo.,You don join the Ajo group.
+tip_security,Don’t share your PIN with anyone.,Má fi PIN rẹ́ fún ẹnikẹ́ni.,No tell anybody your PIN.
+tip_save,Always save at least 10% of your income.,Maṣe gbagbe lati fipamọ́ 10% ti owo oṣooṣu rẹ.,Try save at least 10% of your money.
+tip_doublecheck,Always double-check account numbers before sending money.,Máṣe gbagbe láti ṣàyẹ̀wò nomba àkọọlẹ̀ kí o tó fi owó ranṣẹ.,Always check account number well before you send money.
+loading,Loading... please wait.,jọ̀wọ́ dúró díẹ̀.,"Hold on small, e dey load."
+error_generic,Something went wrong.,Nkankan ṣẹlẹ̀.,Something no work well.
+goal_created,Savings goal created successfully.,Àfojúsùn fipamọ́ ṣẹda ni aṣeyọrí.,You don set your savings goal sharp sharp.
+help,How can I assist you?,Báwo ni mo ṣe lè ràn ẹ lọwọ?,How I fit help you?
+farewell,Goodbye! Have a great day.,Ó dàbọ̀! Ọjọ́ ayọ̀ ni fún ọ.,Bye-bye! Your day go go well.
+confirm_payment,Do you want to confirm this payment?,Ṣe o fẹ́ fọwọ́si ìsanwó yìí?,You wan confirm this payment?
+security_pin,Enter your 4-digit PIN.,Tẹ PIN mẹ́rin rẹ.,Put your 4-digit PIN.
+incorrect_pin,Incorrect PIN. Try again.,PIN rẹ̀ kò tọ́.,Wrong PIN. Try again.
+airtime_success,Airtime purchase successful!,Rira airtime ṣeyọrí!,You don buy airtime successfully!
+welcome_back,Welcome back!,Ẹ káàbọ̀ padà!,You don show again!
+airtime_fail,Airtime purchase failed.,Rira airtime ko ṣeyọrí.,Airtime no go through.
+thank_you,Thank you for using our service!,O ṣeun fún lílo iṣẹ́ wa!,Thanks for using our app!
+check_goal_balance,"Your savings goal balance is ₦10,000.","Balance àfojúsùn rẹ ni ₦10,000.","Your goal balance na ₦10,000."
